@@ -25,7 +25,7 @@
 #include "mb.h"
 #include "mbport.h"
 #include "rtdevice.h"
-#include "board.h"
+// #include "board.h"
 
 /* ----------------------- Static variables ---------------------------------*/
 /* software simulation serial transmit IRQ handler thread stack */
